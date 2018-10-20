@@ -1,1 +1,1 @@
-# NN-basic-stuff
+Some basic Neural Network stuff done with numpy
